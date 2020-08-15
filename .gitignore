@@ -56,3 +56,7 @@ tags
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,linux,virtualenv,venv
+
+webdrivers/*
+
+selenium_server/*
